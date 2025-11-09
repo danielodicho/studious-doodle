@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "studious-doodle",
-    "slug": "studious-doodle",
+    "name": "talk",
+    "slug": "talk",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
